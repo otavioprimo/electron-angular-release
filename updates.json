@@ -2,6 +2,6 @@
   "linux-x64-prod": {
     "update": "https://github.com/otavioprimo/electron-angular-release/releases/simple-updater-example-0.0.1-x86_64.AppImage",
     "install": "https://github.com/otavioprimo/electron-angular-release/releases/simple-updater-example-0.0.1-x86_64.AppImage",
-    "version": "0.0.1"
+    "version": "0.0.2"
   }
 }
